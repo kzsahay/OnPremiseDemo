@@ -6,3 +6,4 @@ applications:
   instances: 1
   memory: 512M
   buildpack: liberty-for-java_v2_3-20151208-1311
+  path: vaadin-jpa-application.war
